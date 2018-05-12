@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5888
     wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25006#Psychology-and-Social-Sanity
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
 identifiers:
